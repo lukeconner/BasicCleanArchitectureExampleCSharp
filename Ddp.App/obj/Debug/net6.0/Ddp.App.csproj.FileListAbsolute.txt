@@ -1,0 +1,15 @@
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/bin/Debug/net6.0/Ddp.App.deps.json
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/bin/Debug/net6.0/Ddp.App.dll
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/bin/Debug/net6.0/Ddp.App.pdb
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/bin/Debug/net6.0/Ddp.Domain.dll
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/bin/Debug/net6.0/Ddp.Domain.pdb
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/obj/Debug/net6.0/Ddp.App.csproj.AssemblyReference.cache
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/obj/Debug/net6.0/Ddp.App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/obj/Debug/net6.0/Ddp.App.AssemblyInfoInputs.cache
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/obj/Debug/net6.0/Ddp.App.AssemblyInfo.cs
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/obj/Debug/net6.0/Ddp.App.csproj.CoreCompileInputs.cache
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/obj/Debug/net6.0/Ddp.App.csproj.CopyComplete
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/obj/Debug/net6.0/Ddp.App.dll
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/obj/Debug/net6.0/ref/Ddp.App.dll
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/obj/Debug/net6.0/Ddp.App.pdb
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.App/obj/Debug/net6.0/refint/Ddp.App.dll

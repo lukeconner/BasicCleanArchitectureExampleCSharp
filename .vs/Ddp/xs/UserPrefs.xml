@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{B0DA9A05-519A-4091-B8A5-80D153E095E0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ddp.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ddp.Api/Program.cs">
+    <Files>
+      <File FileName="Ddp.Api/Program.cs" Line="25" Column="11" />
+      <File FileName="Ddp.Domain/Models/UploadType.cs" Line="1" Column="1" />
+      <File FileName="Ddp.Repository/Models/DdpContext.cs" Line="62" Column="1" />
+      <File FileName="Ddp.Domain/Wrappers/ApiResponse.cs" Line="3" Column="25" />
+      <File FileName="Ddp.Domain/DTOs/UserPermissionDto.cs" Line="1" Column="1" />
+      <File FileName="Ddp.Domain/DTOs/LoginResponseDto.cs" Line="5" Column="5" />
+      <File FileName="Ddp.App/Mappings/GeneralProfile.cs" Line="1" Column="1" />
+      <File FileName="Ddp.App/ServiceExtension.cs" Line="7" Column="1" />
+      <File FileName="Ddp.App/Interfaces/IGenericRepository.cs" Line="11" Column="1" />
+      <File FileName="Ddp.App/Interfaces/IEmailService.cs" Line="5" Column="5" />
+      <File FileName="Ddp.App/Interfaces/IDateTimeService.cs" Line="8" Column="2" />
+      <File FileName="Ddp.Repository/Models/TimeZone.cs" Line="1" Column="1" />
+      <File FileName="Ddp.Repository/Services/ContextService.cs" Line="9" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ddp" expanded="True">
+            <Node name="Ddp.Api" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Ddp.App" expanded="True">
+              <Node name="Features" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Mappings" expanded="True" />
+            </Node>
+            <Node name="Ddp.Domain" expanded="True">
+              <Node name="DTOs" expanded="True" />
+              <Node name="Wrappers" expanded="True" />
+            </Node>
+            <Node name="Ddp.Repository" expanded="True" />
+            <Node name="Ddp.Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

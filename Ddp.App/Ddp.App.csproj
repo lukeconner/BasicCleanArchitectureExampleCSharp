@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Ddp.Domain\Ddp.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="11.0.1" />
+      <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Features\Auth\Command" />
+      <Folder Include="Features\GroupMembership\Command" />
+      <Folder Include="Features\GroupMembership\Query" />
+      <Folder Include="Features\GroupType\Command" />
+      <Folder Include="Features\GroupType\Query" />
+      <Folder Include="Features\Group\Command" />
+      <Folder Include="Features\Group\Query" />
+      <Folder Include="Features\Language\Command" />
+      <Folder Include="Features\Language\Query" />
+      <Folder Include="Features\OrganizationType\Command" />
+      <Folder Include="Features\OrganizationType\Query" />
+      <Folder Include="Features\Organization\Command" />
+      <Folder Include="Features\Organization\Query" />
+      <Folder Include="Features\ParentGroup\Command" />
+      <Folder Include="Features\ParentGroup\Query" />
+      <Folder Include="Features\Plan\Command" />
+      <Folder Include="Features\Plan\Query" />
+      <Folder Include="Features\PostActivityLog\Command" />
+      <Folder Include="Features\PostActivityLog\Query" />
+      <Folder Include="Features\Post\Command" />
+      <Folder Include="Features\Post\Query" />
+      <Folder Include="Features\UploadType\Command" />
+      <Folder Include="Features\UploadType\Query" />
+      <Folder Include="Features\Upload\Command" />
+      <Folder Include="Features\Upload\Query" />
+      <Folder Include="Features\User\Command" />
+      <Folder Include="Features\User\Query" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/bin/Debug/net6.0/Ddp.Domain.deps.json
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/bin/Debug/net6.0/Ddp.Domain.dll
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/bin/Debug/net6.0/Ddp.Domain.pdb
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/obj/Debug/net6.0/Ddp.Domain.csproj.AssemblyReference.cache
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/obj/Debug/net6.0/Ddp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/obj/Debug/net6.0/Ddp.Domain.AssemblyInfoInputs.cache
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/obj/Debug/net6.0/Ddp.Domain.AssemblyInfo.cs
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/obj/Debug/net6.0/Ddp.Domain.csproj.CoreCompileInputs.cache
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/obj/Debug/net6.0/Ddp.Domain.dll
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/obj/Debug/net6.0/ref/Ddp.Domain.dll
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/obj/Debug/net6.0/Ddp.Domain.pdb
+/Users/lukeconner/Dev/DigitalDoorpost/DdpApi/Ddp.Domain/obj/Debug/net6.0/refint/Ddp.Domain.dll
